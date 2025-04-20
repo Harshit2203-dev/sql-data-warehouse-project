@@ -10,11 +10,11 @@ This repository contains SQL queries designed to help data analysts and BI profe
 
 Develop SQL-based analytics to deliver detailed insights into:
 
-   ** Customer Behavior**
+   ** Customer Behavior **
    
-   ** Product Performance**
+   ** Product Performance **
    
-   ** Sales Trends**
+   ** Sales Trends **
     
 These insights empower stakeholders with key business metrics and decision-making
 
